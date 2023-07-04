@@ -1,0 +1,7 @@
+name: Prefix
+version: '${version}'
+main: io.github.gum4.prefix.Prefix
+api-version: '1.20'
+prefix: Prefix
+authors: [9um4]
+description: Minecraft vanilla scoreboard api based prefix system plugin.
